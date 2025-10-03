@@ -139,7 +139,7 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('https://api.sofya-kozlova.nomorepartiessbs.ru/');
+  const api = new Api('https://api.sofya-kozlova.nomorepartiessbs.ru');
   
   export default api;
   
